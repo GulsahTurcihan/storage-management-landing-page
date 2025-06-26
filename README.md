@@ -13,12 +13,6 @@ A simple and responsive landing page built with **Next.js**, **TypeScript**, and
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vercel](https://vercel.com/) (for deployment)
 
-## 📸 Screenshots
-
-| Desktop                                         | Mobile                                        |
-| ----------------------------------------------- | --------------------------------------------- |
-| ![Desktop View](public/screenshots/desktop.png) | ![Mobile View](public/screenshots/mobile.png) |
-
 ## 📂 Features
 
 - 🧭 Clean, modern landing layout
