@@ -4,7 +4,7 @@ import mobileLogo from "@/public/assets/icons/logo-brand.svg";
 
 const Header = () => {
   return (
-    <header className="p-4">
+    <header className="p-4 sticky top-0">
       <div>
         <Image
           src={fullLogo}
